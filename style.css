@@ -297,7 +297,7 @@ nav button i{
 }
 
 .projects .inner .items .item{
-border: 1px solid #484848;
+    border: 1px solid #484848;
     border-radius: 16px;
     padding: 32px 24px;
     height: 250px;
