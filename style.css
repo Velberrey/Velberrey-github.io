@@ -297,14 +297,12 @@ nav button i{
 }
 
 .projects .inner .items .item{
-display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-  padding: 32px 24px;
-  height: 250px;
-  width: 24%;
-  background: #262626;
+border: 1px solid #484848;
+    border-radius: 16px;
+    padding: 32px 24px;
+    height: 250px;
+    width: 24%;
+    background: #262626;
 }
 
 .projects .inner .items .item i{
